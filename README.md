@@ -14,7 +14,6 @@
 - 주제: 환경 보호
 - 목표: 데이터 분석 수치를 활용해 **육류소비의 탄소배출량의 심각성 파악** 및 **유저 간 채식문화 장려 하는 서비스 제공**
 - API 문서: [바로가기](https://docs.google.com/spreadsheets/d/1t-DNUbVY4GI5NZWTBwCLrzPFFoJMj4t_p9wfY_jemhA/edit?usp=sharing)
-- 테스트 페이지: [바로가기](http://kdt-ai7-team07.elicecoding.com/)
 
 <br/>
 
@@ -23,32 +22,22 @@
 **민준영**
 
 - Back-End
-- znddiqjwjs@gmail.com
-- Github: [@minluna](https://github.com/minluna)
 
 **정재훈**
 
 - Back-End
-- wjdwogns120523@gmail.com
-- Github: [@J-A-Y2](https://github.com/J-A-Y2)
 
 **김지원**
 
 - Back-End
-- 0o0w0d2@gmail.com
-- Github: [0o0w0d2](https://github.com/0o0w0d2)
 
 **이영현**
 
 - Front-End
-- pisouz7@gmail.com
-- Github:[@yyoungl](https://github.com/yyoungl)
 
 **최우현**
 
 - Front-End
-- woohyun6549@gamil.com
-- Github: [@choiwoohyun123](https://github.com/choiwoohyun123)
 
 <br/>
 
@@ -157,7 +146,7 @@
 1. 해당 프로젝트를 clone 합니다.
 
    ```
-   git clone https://kdt-gitlab.elice.io/ai_track/class_07/data_project/team07/vegcom_front.git
+   git clone https://github.com/choiwoohyun123/vegcom_site.git
    ```
 
 2. 프로젝트 실행에 필요한 패키지를 설치합니다.
