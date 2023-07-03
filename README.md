@@ -226,4 +226,4 @@
 
 ---
 
-[![오채완 시연영상](http://img.youtube.com/vi/oaIJNOqY1oQ/0.jpg)](https://www.youtube.com/watch?v=oaIJNOqY1oQ "오채완 시연영상")
+[![오채완 시연영상](http://img.youtube.com/vi/DzSXSp5CwSQ/0.jpg)](https://www.youtube.com/watch?v=DzSXSp5CwSQ "오채완 시연영상")
