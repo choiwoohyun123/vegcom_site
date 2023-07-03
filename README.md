@@ -121,6 +121,63 @@
  ┃ ┗ 📜tierdecision.js> `
 ```
 
+### [Back-End](#)
+
+```
+📦src
+ ┣ 📂controllers
+ ┃ ┣ 📜commentController.js
+ ┃ ┣ 📜likeController.js
+ ┃ ┣ 📜postController.js
+ ┃ ┣ 📜rankController.js
+ ┃ ┣ 📜searchController.js
+ ┃ ┗ 📜userController.js
+ ┣ 📂db
+ ┃ ┣ 📂models
+ ┃ ┃ ┣ 📜Comment.js
+ ┃ ┃ ┣ 📜Like.js
+ ┃ ┃ ┣ 📜Post.js
+ ┃ ┃ ┣ 📜Rank.js
+ ┃ ┃ ┣ 📜Search.js
+ ┃ ┃ ┗ 📜User.js
+ ┃ ┗ 📜index.js
+ ┣ 📂middlewares
+ ┃ ┣ 📜addComment_validate.js
+ ┃ ┣ 📜addPost_validate.js
+ ┃ ┣ 📜commentParams_validate.js
+ ┃ ┣ 📜errorMiddleware.js
+ ┃ ┣ 📜getComment_validate.js
+ ┃ ┣ 📜getPost_vaildate.js
+ ┃ ┣ 📜login_required.js
+ ┃ ┣ 📜login_validate.js
+ ┃ ┣ 📜postParams_validate.js
+ ┃ ┣ 📜register_validate.js
+ ┃ ┣ 📜search_validate.js
+ ┃ ┣ 📜setComment_validate.js
+ ┃ ┣ 📜setPost_validate.js
+ ┃ ┣ 📜setUser_validate.js
+ ┃ ┗ 📜userParams_validate.js
+ ┣ 📂routers
+ ┃ ┣ 📜commentRouter.js
+ ┃ ┣ 📜likeRouter.js
+ ┃ ┣ 📜postRouter.js
+ ┃ ┣ 📜rankRouter.js
+ ┃ ┣ 📜searchRouter.js
+ ┃ ┗ 📜userRouter.js
+ ┣ 📂services
+ ┃ ┣ 📜commentService.js
+ ┃ ┣ 📜likeService.js
+ ┃ ┣ 📜postService.js
+ ┃ ┣ 📜rankService.js
+ ┃ ┣ 📜searchService.js
+ ┃ ┗ 📜userService.js
+ ┣ 📂utils
+ ┃ ┗ 📜statusCode.js
+ ┣ 📜app.js
+ ┣ 📜aws.config.js
+ ┗ 📜babel.config.json
+```
+
 <br />
 
 ## 🔎 주요기능
